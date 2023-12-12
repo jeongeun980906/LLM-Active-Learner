@@ -14,6 +14,8 @@ In this repository, we explore the capability of LLM to reason out the user's in
 ## Run the Code
 ### Install
 
+**set your openai key on './key/key.txt' file!**
+
 ```
 pip install numpy scipy shapely astunparse pygments openai
 pip install imageio==2.4.1 imageio-ffmpeg pybullet moviepy

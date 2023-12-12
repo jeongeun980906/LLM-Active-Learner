@@ -1,4 +1,6 @@
 # Active Learner LLM
+In this repository, we explore the capability of LLM to reason out the user's intention based on the sparse signals. 
+
 
 ## Overview
 1. Clicker Signal
